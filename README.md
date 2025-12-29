@@ -1043,7 +1043,7 @@ GitHub repository: https://github.com/yourusername/Weather-Forecasting-ANN
 
 **Joel Jacob**
 - 📧 Email: joeljacob1254@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/joeljacob](https://linkedin.com/in/joeljacob)
+- 💼 LinkedIn: [linkedin.com/in/joeljacob](https://www.linkedin.com/in/joeljacob1254/)
 - 🐙 GitHub: [@yourusername](https://github.com/yourusername)
 - 📱 Phone: +91 9846396477
 
