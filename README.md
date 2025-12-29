@@ -7,24 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-success.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6+-orange.svg)
 
----
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Project Structure](#project-structure)
-- [Algorithm Details](#algorithm-details)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## 🎯 Overview
 
